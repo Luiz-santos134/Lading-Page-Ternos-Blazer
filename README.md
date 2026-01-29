@@ -1,7 +1,7 @@
 # Lading-Page-Ternos-Blazer
 # 👔 Ternos & Blazer
 
-Site institucional para uma loja de **ternos, blazers e moda social masculina**, com foco em elegância, profissionalismo e conversão.
+Site institucional para uma loja de **ternos, blazers e moda social masculina**, com foco em elegância, profissionalismo e conversão. (Ainda em Andamento)
 
 🔗 **Site publicado:** https://ternosblazer.netlify.app/
 
@@ -33,14 +33,4 @@ O site foi desenvolvido com foco em:
 ## 📂 Estrutura do Projeto
 ├── index.html # Página principal
 
-├── produtos.html # Página de produtos
-
-├── contato.html # Página de contato
-
-├── assets/
-
-│ ├── css/ # Estilos do site
-
-│ ├── js/ # Scripts JavaScript
-
-│ └── images/ # Imagens do site
+├── style.css # Estilos do site
